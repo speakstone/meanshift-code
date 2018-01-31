@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "meanshift", "meanshift.vcxproj", "{551903B5-1311-776F-D826-37284D4EEEA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{551903B5-1311-776F-D826-37284D4EEEA8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{551903B5-1311-776F-D826-37284D4EEEA8}.Debug|Win32.Build.0 = Debug|Win32
+		{551903B5-1311-776F-D826-37284D4EEEA8}.Release|Win32.ActiveCfg = Release|Win32
+		{551903B5-1311-776F-D826-37284D4EEEA8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
